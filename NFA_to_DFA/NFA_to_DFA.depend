@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1524838965 source:c:\users\maria\onedrive\desktop\fmi\algoritmica grafurilor\laborator 5\nfa_to_dfa\main.cpp
+	<iostream>
+	<fstream>
+	<cstring>
+	<vector>
+	<set>
+	<utility>
+	<queue>
+	<AFN.h>
+	<AFD.h>
+
+1524838954 source:c:\users\maria\onedrive\desktop\fmi\algoritmica grafurilor\laborator 5\nfa_to_dfa\src\afn.cpp
+	"AFN.h"
+
+1524833777 c:\users\maria\onedrive\desktop\fmi\algoritmica grafurilor\laborator 5\nfa_to_dfa\include\afn.h
+	<iostream>
+	<cstring>
+	<string.h>
+	<set>
+	<vector>
+	<iterator>
+	<math.h>
+	<queue>
+	<AFD.h>
+
+1524838880 source:c:\users\maria\onedrive\desktop\fmi\algoritmica grafurilor\laborator 5\nfa_to_dfa\src\afd.cpp
+	"AFD.h"
+
+1524838893 c:\users\maria\onedrive\desktop\fmi\algoritmica grafurilor\laborator 5\nfa_to_dfa\include\afd.h
+	<iostream>
+	<string.h>
+	<vector>
+	<iterator>
+
